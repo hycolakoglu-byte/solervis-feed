@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>SOLERVIS</title>
+    <link>https://solervis.com</link>
+    <description>Solervis ürün besleme dosyası</description>
+
+  
+    <item>
+      <g:id>solerviss-dudak-dolgunlastirici</g:id>
+      <title>Solervis Dudak Dolgunlaştırıcı</title>
+      <description>
+        Solervis dudak dolgunlaştırıcı, şeffaf formülüyle iğneye gerek kalmadan dudaklara hacim verir. 
+        5 dakikada daha dolgun, belirgin ve ışıltılı dudaklar için günlük kullanıma uygundur.
+      </description>
+      <link>https://solervis.com/products/solerviss-dudak-dolgunlastirici</link>
+      <g:image_link>https://solervis.com/cdn/shop/files/DSCF2637_kopya.jpg?v=1756802753</g:image_link>
+      <g:price>645.00 TRY</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Solervis</g:brand>
+      <g:condition>new</g:condition>
+      <g:mpn>SV-DUDAK-001</g:mpn>
+    </item>
+
+    
+    <item>
+      <g:id>retinal-bakim-kremi</g:id>
+      <title>Retinal Bakım Kremi</title>
+      <description>
+        %0,1 Retinal içeren Solervis Retinal Bakım Kremi; kırışıklık görünümünü azaltmaya, 
+        cildi yenilemeye ve ışıltı kazandırmaya yardımcı olur. Panthenol nemlendirir, 
+        Matrixyl 3000 sıkılaştırmaya destek olur, hassas ciltler için uygundur.
+      </description>
+      <link>https://solervis.com/products/retinal-bakim-kremi</link>
+      <g:image_link>https://solervis.com/cdn/shop/files/SolervisGorsel1.png?v=1765201091</g:image_link>
+      <g:price>685.00 TRY</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Solervis</g:brand>
+      <g:condition>new</g:condition>
+      <g:mpn>SV-RETINAL-001</g:mpn>
+    </item>
+
+  </channel>
+</rss>
